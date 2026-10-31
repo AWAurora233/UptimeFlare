@@ -71,6 +71,14 @@ const workerConfig: WorkerConfig = {
       tooltip: 'This is a tooltip for this monitor',
       statusPageLink: 'https://www.xiaoyuer.us.ci',
     },
+        {
+      id: 'EdgeOne-Random-Picture',
+      name: 'EdgeOne随机图库',
+      method: 'GET',
+      target: 'https://picture.free-blog-xiaoyuer.ccwu.cc',
+      tooltip: 'This is a tooltip for this monitor',
+      statusPageLink: 'https://picture.free-blog-xiaoyuer.ccwu.cc',
+    },
     {
       id: 'meting_api',
       name: 'Meting API',
