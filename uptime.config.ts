@@ -81,11 +81,11 @@ const workerConfig: WorkerConfig = {
     },
     {
       id: 'meting_api',
-      name: 'Meting API',
+      name: 'Meting API(来自live-ling/Meting-API)',
       method: 'GET',
-      target: 'https://meting.xiaoyuer.us.ci',
+      target: 'https://meting.liveling.top',
       tooltip: 'This is a tooltip for this monitor',
-      statusPageLink: 'https://meting.xiaoyuer.us.ci',
+      statusPageLink: 'https://meting.liveling.top',
     },
     // TCP 监控示例
 //    {
