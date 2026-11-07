@@ -10,7 +10,7 @@ const pageConfig: PageConfig = {
   title: "AWAurora233's 状态监控",
   // 显示在状态页头部的链接，可设置 `highlight` 为 `true` 以高亮显示
   links: [
-    { link: 'https://github.com/1312333', label: 'GitHub' },
+    { link: 'https://github.com/AWAurora233', label: 'GitHub' },
     { link: 'https://blog.xiaoyuer.us.ci', label: 'Blog' },
     { link: 'mailto:xiaoyuer2333@outlook.com', label: 'Email Me', highlight: true },
   ],
