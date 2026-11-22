@@ -83,7 +83,7 @@ const workerConfig: WorkerConfig = {
       id: 'meting_api',
       name: 'Meting API(来自live-ling/Meting-API)',
       method: 'GET',
-      target: 'https://meting.liveling.top',
+      target: 'https://meting.liveling.top/health',
       tooltip: 'This is a tooltip for this monitor',
       statusPageLink: 'https://meting.liveling.top',
     },
